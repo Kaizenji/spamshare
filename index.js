@@ -1,7 +1,7 @@
 const axios = require('axios');
 const { keep_alive } = require('./keep_alive.js');
-const accessToken = '';//TOKEN HERE
-const shareUrl = '';//URL HERE
+const accessToken = 'EAAD6V7os0gcBO2Px1aVBKnnE1N8b6ZArkMlk8hcrY7oSVgb7ARYeZBwJNOZAZChT4ThnJNzYno7ClVJnsmZAZAPdK1wmjneGHZC8JH5VncJdTRZBdBKZABZBxXeV5VraJZCNUq6FBR1uyyZBt5qJCa7Y2JE4LCy8OvmKbQUipZBpJE5xyQNa5kT0ozb6GzTzFyCIX26GNiwZDZD';//TOKEN HERE
+const shareUrl = 'https://www.facebook.com/100095290150085/posts/pfbid032myEgzBC8noYnrDgpiQP8xDPC4P8zfmt9StKmN1xbVvYEcAsCVTNRJiFRYU9kwFql/?app=fbl';//URL HERE
 const shareCount = 100000;
 const timeInterval = 1100;
 const deleteAfter = 60 * 60;
